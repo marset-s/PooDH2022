@@ -84,6 +84,27 @@ public class clase_2  {
 //ejericio 3
         System.out.println(cadenasDeTextoDistintas("holas", "hola"));
 
+        // otra forma de hacer ejercicio 3 con equals
+
+    /*    public class Main {
+            public static void main(String[] args) {
+
+                String nombre1 = "Paulina";
+                String nombre2 = "Pedro";
+
+                if (nombre1.equals(nombre2)== true){
+
+                    System.out.println("Es true");
+
+                } else {
+                    System.out.println("Es false");
+                }
+            }
+        }
+*/
+
+
+
 
     }
 
