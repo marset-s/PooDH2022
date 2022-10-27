@@ -33,6 +33,9 @@ public class clase_3 {
         System.out.println("Ingresa el nombre de tu perro");
         String nombreDePerro = scanner.nextLine();
 
+
+
+
         System.out.println("Ingresa la cantidad de alimento que come tu perro");
         double cantidadDeAlimento = scanner.nextDouble();
 
@@ -42,7 +45,6 @@ public class clase_3 {
 
         }
 */
-
 
     }
     }

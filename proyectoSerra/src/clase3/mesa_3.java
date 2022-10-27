@@ -20,8 +20,10 @@ cuando el primero elije “*” como indicador de final.
 
 
 
-// scanner dos jugadores
-// guardar variables en
+
+
+
+
 
 
 
