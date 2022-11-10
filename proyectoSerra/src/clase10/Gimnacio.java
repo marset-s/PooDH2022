@@ -1,5 +1,7 @@
 package clase10;
 
+import java.util.Objects;
+
 public class Gimnacio {
 
     private String nombre;
@@ -15,4 +17,9 @@ public class Gimnacio {
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
+
+
+
+
 }
+
